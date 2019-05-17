@@ -12,6 +12,14 @@ open http://localhost:4200 &&
 ng serve
 ```
 
+## Site currently deployed using surge https://surge.sh/
+[website](preparation-for-angular-in-an-interview-using-routing.surge.sh) location: preparation-for-angular-in-an-interview-using-routing.surge.sh
+```
+npm install --global surge
+surge
+## directory for project: 
+```
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
